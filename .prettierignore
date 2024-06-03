@@ -1,0 +1,19 @@
+# Global
+../.github/ISSUE_TEMPLATE/
+../.vscode/
+../dist/
+../CHANGELOG.md
+../openapi.json
+
+# Client
+sdk/api/
+node_modules/
+**/*.json
+.eslintrc.cjs
+
+# API
+../api/web/assets/
+../api/runtime/
+../api/tests/
+../api/vendor/
+../api/composer.lock
